@@ -91,7 +91,7 @@ We welcome contributions! Please feel free to fork the repo and submit a pull re
 
 ## 📬 Contact
 
-For questions, suggestions, or collaboration, feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/)!
+For questions, suggestions, or collaboration, feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/NuhDemir)!
 
 > This repository is crafted with ♥ to help developers become algorithm masters.
 
