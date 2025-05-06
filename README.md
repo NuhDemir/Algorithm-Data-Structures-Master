@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="img/Algorithm and Data Structures.png" alt="Algorithms and Data Structures" width="500"/>
+  ![Algorithm and Data Structures ](https://github.com/NuhDemir/Algorithm-Data-Structures-Master/blob/main/img/Algorithm%20and%20Data%20Structures.png?raw=true)
+
 </p>
 
 # 📚 Ultimate Guide to Algorithms and Data Structures
